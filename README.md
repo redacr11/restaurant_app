@@ -1,8 +1,8 @@
-### Restaurant app
+# Restaurant app
 
 Sample React Native project to learn more about mobile development.
 
-## Running the project
+### Running the project
 
 - Clone this repo
   - `git clone https://github.com/redacr11/restaurant_app.git`
